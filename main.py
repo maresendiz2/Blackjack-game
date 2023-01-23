@@ -5,3 +5,4 @@ firstCard = random.choice(num)
 secondCard = random.choice(num)
 
 Dealer(firstCard, secondCard, num)
+
